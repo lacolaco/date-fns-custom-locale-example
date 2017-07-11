@@ -1,0 +1,14 @@
+{
+  "name": "datefns-i18n-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "laco0416",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^1.28.5"
+  }
+}
